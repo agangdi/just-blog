@@ -1,0 +1,4 @@
+node_modules
+public/bundle.js
+server.bundle.js
+.git
